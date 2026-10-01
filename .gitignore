@@ -1,0 +1,8 @@
+/build/
+/dist/
+*.class
+*.log
+.idea/
+.vscode/
+.DS_Store
+inspection-report*.txt
