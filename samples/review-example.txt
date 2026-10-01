@@ -1,0 +1,7 @@
+INERT DEMONSTRATION TEXT - this file is not a runnable script.
+These examples intentionally trigger context-review findings:
+ProcessBuilder("example")
+eval(untrusted_input)
+FromBase64String(example)
+https://example.invalid/demo
+crontab example
