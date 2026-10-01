@@ -1,0 +1,2 @@
+This is an ordinary text file for demonstrating the basic inspector.
+It contains no executable instructions.
